@@ -1,5 +1,5 @@
 ## Links and files for additional content.
-> You will find reading materials,the presentations and other documents in this folder itself.
+> You will find links and files for extra contents here.
 
 
 - [Git Installation][gitinst]
