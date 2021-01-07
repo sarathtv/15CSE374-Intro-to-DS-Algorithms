@@ -4,8 +4,9 @@
 ### Links for course materials.
 - [Course Introduction][intro_pdf]
 - [Python Introduction Video][python_vid]
-
+- [Python Practice Questions][python_folder]
 
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
+[python_folder]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Python
