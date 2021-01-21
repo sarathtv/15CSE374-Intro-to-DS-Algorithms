@@ -9,6 +9,9 @@
 - [Python Class,Attribute,Methods Video][oop-video]
 - [Lec 1][Lec-1 pdf]
 - [lec1-video][lec1_vid]
+- [Lec 2][Lec-2 pdf]
+- [lec2-video][lec2_vid]
+- [lec 2 code][codeL2]
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
@@ -17,3 +20,7 @@
 [oop-video]:https://youtu.be/odT-oO7JphU
 [Lec-1 pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_1.pdf
 [lec1_vid]:https://youtu.be/6kfRyVOx7n0
+
+[Lec-2 pdf]:https://youtu.be/6kfRyVOx7n0
+[lec2_vid]:https://youtu.be/HfkKFy8AKxY
+[codeL2] :https://youtu.be/HfkKFy8AKxY
