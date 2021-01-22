@@ -27,5 +27,5 @@
 [lec2_vid]:https://youtu.be/HfkKFy8AKxY
 [codeL2]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%202
 
-[Lec-3 pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_2.pdf
-[lec2_vid]:https://youtu.be/H4rlm1s_ksI
+[Lec-3 pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_3.pdf
+[lec3_vid]:https://youtu.be/H4rlm1s_ksI
