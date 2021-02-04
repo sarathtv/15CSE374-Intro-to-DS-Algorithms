@@ -19,6 +19,9 @@
 - [Big O -2 Example ][bigO2]
 - [Lec 4][lec4]
 - [Lec 4-video][lec4_vid]
+- [Lec 5][lec5]
+- [Lec 5-video][lec5_vid]
+- [Lec 5-codes][l5code]
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
@@ -41,3 +44,8 @@
 
 [lec4]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_4.pdf
 [lec4_vid]:https://youtu.be/dh_bK4qCWKk
+
+[lec5]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/
+Presentations/15CSE374_Lec_5.pdf
+[lec5_vid]:https://youtu.be/klbXj6pVd3s
+[l5code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%205
