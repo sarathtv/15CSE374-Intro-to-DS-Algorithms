@@ -47,5 +47,7 @@
 
 [lec5]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/
 Presentations/15CSE374_Lec_5.pdf
+
 [lec5_vid]:https://youtu.be/klbXj6pVd3s
+
 [l5code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%205
