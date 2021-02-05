@@ -22,6 +22,9 @@
 - [Lec 5][lec5]
 - [Lec 5 - video][lec5_vid]
 - [Lec 5 -codes][l5code]
+- [Lec 6][lec6]
+- [Lec 6 - video][l6vid]
+- [Lec 6 code][l6code]
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
@@ -50,3 +53,7 @@
 [lec5_vid]:https://youtu.be/klbXj6pVd3s
 
 [l5code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%205
+
+[lec6]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_6.pdf
+[l6vid]:https://youtu.be/dLTpO4dEFV8
+[l6code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%206
