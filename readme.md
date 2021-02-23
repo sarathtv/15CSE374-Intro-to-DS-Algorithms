@@ -29,6 +29,10 @@
 - [Lec 7][lec7]
 - [Lec 7 - video][l7vid]
 - [Lec 7 code][l7code]
+- [Lec 8][lec8]
+- [Lec 8 -1 video][l8-1vid]
+- [Lec 8 -2 video][l8-2vid]
+- [Lec 8 code][l8code]
 
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
@@ -69,3 +73,8 @@
 [lec7]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_7.pdf
 [l7vid]:https://youtu.be/NV5MijK0f80
 [l7code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%207
+
+[lec8]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_8.pdf
+[l8-1vid]:https://youtu.be/XCwwLgXJlv0
+[l8-2vid]:https://youtu.be/O6lvubuERJA
+[l8code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Additional%20Content/Lec%208/Linked_List.pdf
