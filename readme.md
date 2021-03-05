@@ -38,6 +38,7 @@
 - [Lec 9 code][l9code]
 - [Lec 10][lec10]
 - [Lec 10 video][l0vid]
+- [Lec 10 code][l10code]
 - [Lec 11][lec11]
 - [Lec 11 -1 video][l1-1vid]
 - [Lec 11 -2 video][l1-2vid]
@@ -92,6 +93,7 @@
 
 [lec10]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_10.pdf
 [l0vid]:https://youtu.be/IAnhOBJMv9I
+[l10code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%2010
 
 [lec11]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_11.pdf
 [l1-1vid]:https://youtu.be/wkTWEoBR218
