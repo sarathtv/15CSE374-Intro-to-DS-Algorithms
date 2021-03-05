@@ -36,6 +36,11 @@
 - [Lec 9][lec9]
 - [Lec 9 - video][l9vid]
 - [Lec 9 code][l9code]
+- [Lec 10][lec10]
+- [Lec 10 video][l0vid]
+- [Lec 11][lec11]
+- [Lec 11 -1 video][l1-1vid]
+- [Lec 11 -2 video][l1-2vid]
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
@@ -84,3 +89,10 @@
 [lec9]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_9.pdf
 [l9vid]:https://youtu.be/1uTm-oICFgg
 [l9code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%209
+
+[lec10]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_10.pdf
+[l0vid]:https://youtu.be/IAnhOBJMv9I
+
+[lec11]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_11.pdf
+[l1-1vid]:https://youtu.be/wkTWEoBR218
+[l1-2vid]:https://youtu.be/haEEtSw97_0
