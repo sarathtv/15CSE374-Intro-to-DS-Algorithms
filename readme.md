@@ -102,6 +102,6 @@
 [l1-1vid]:https://youtu.be/wkTWEoBR218
 [l1-2vid]:https://youtu.be/haEEtSw97_0
 
-[lec11]:
-[l12-1vid]:
-[l12-2vid]:
+[lec11]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_12.pdf
+[l12-1vid]:https://youtu.be/P2CWoR_7sg4
+[l12-2vid]:https://youtu.be/51oYeecLaiQ
