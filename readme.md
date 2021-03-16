@@ -110,6 +110,6 @@
 [l12-2vid]:https://youtu.be/51oYeecLaiQ
 
 
-[lec13]:
+[lec13]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_13.pdf
 [l13vid]:https://youtu.be/V9V2NknvAvg
-[l13code]:
+[l13code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%2013
