@@ -52,6 +52,8 @@
 - [Lec 14 video][l14vid]
 - [Lec 14 Demo][l14dem]
 - [Lec 14 Code][l14code]
+- [Lec 15][lec15]
+- [Lec 15 video][l15vid]
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
@@ -122,3 +124,6 @@
 [l14vid]:https://youtu.be/h5PDcmGdf0U
 [l14dem]:https://youtu.be/xBJ-yg-Arlk
 [l14code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%2014
+
+[lec15]:
+[l15vid]:https://youtu.be/ZOWApIZdEs4 
