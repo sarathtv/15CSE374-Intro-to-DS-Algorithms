@@ -65,7 +65,10 @@
 - [Lec 19][l19]
 - [Lec 19 video][l19vid]
 - [Lec 19 Code][l19code]
-
+- [Lec 20][lec20]
+- [Lec 20 video][l20vid]
+- [Lec 21][lec21]
+- [Lec 21 video][l21vid]
 
 [intro_pdf]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Course_Intro.pdf
 [python_vid]:https://youtu.be/4rvwGXWytWQ
@@ -156,3 +159,8 @@
 [l19]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_19.pdf
 [l19vid]:https://youtu.be/otwKPwVpsw0
 [l19code]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/tree/master/Additional%20Content/Lec%2019
+
+[lec20]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_20.pdf
+[l20vid]:https://youtu.be/BX3lbwkULME
+[lec21]:https://github.com/sarathtv/15CSE374-Intro-to-DS-Algorithms/blob/master/Presentations/15CSE374_Lec_21.pdf
+[l21vid]:https://youtu.be/kQma7IlPY-c
